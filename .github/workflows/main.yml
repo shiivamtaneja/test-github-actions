@@ -1,4 +1,4 @@
-name: Test
+name: Validate and Deploy
 
 on: 
   push: 
